@@ -38,7 +38,7 @@ The model can assist business owners in quoting accurate prices for new customer
 
 ## 📁 File
 
-- `Priceproject_PortfolioReady.ipynb`: Clean, well-commented Jupyter Notebook ready for presentation or GitHub
+- `Priceproject_PortfolioReady.ipynb`
 
 ---
 
